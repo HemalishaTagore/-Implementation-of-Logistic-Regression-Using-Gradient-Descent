@@ -69,6 +69,8 @@ plt.show()
 
 ## Output:
 ![logistic regression using gradient descent](6.1.png)
+
+
 ![image](6.2.png)
 
 
